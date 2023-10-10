@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/maayvs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maayvs&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maayvs&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"/><br>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maayvs&theme=vision-friendly-dark&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maayvs&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
