@@ -1,6 +1,5 @@
 ### Hi, there! I'm Mayara 👋
 
-![snake animation](https://github.com/maayvs/maayvs/blob/output/github-contribution-grid-snake2.svg)
 <div>
   <a href="https://github.com/maayvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maayvs&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"/>
