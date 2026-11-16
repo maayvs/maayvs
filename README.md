@@ -1,5 +1,14 @@
 ### Hi, there! I'm Mayara 👋
 
+IT Support Analyst with experience in N1/N2 support and server infrastructure, now expanding into back-end development with Java and Spring Boot.
+
+🛠️ Background in IT support for a hospital environment and server infrastructure (Windows Server, Linux, Active Directory)<br>
+🎓 Bachelor's in Information Systems (SENAC) · Postgraduate student in Java Architecture and Development<br>
+☕ Currently building Cashflow, a personal finance REST API with Spring Boot, MySQL and Docker<br>
+🎯 Open to opportunities in IT Support / Help Desk / Infrastructure and Junior Java Development<br>
+📫 Let's connect on LinkedIn<br>
+😄 Pronouns: she/her<br>
+
 <div>
   <a href="https://github.com/maayvs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maayvs&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"/><br>
@@ -15,7 +24,4 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
-- 💻 I'm working on information technology infrastructure
-- 📖 I’m currently learning web programming
-- 😄 Pronouns: she/her
 
